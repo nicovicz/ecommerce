@@ -1,13 +1,9 @@
-e-commerce
+Simple e-commerce Community Edition
 =========
 
-Simple e-commerce
+Simple E-Commerce v0.0.1 codename Jelanda
 
-[SHARE] Simple E-Commerce v0.0.1 codename Jelanda
-bagi member yang ingin membuat/menggunakan e-commerce sederhana silahkan coba
-simple e-commerce ini
-
-kelebihan
+Kelebihan
 - database menggunakan json file
 - client-side only
 - JSON cookies
@@ -18,16 +14,16 @@ kelebihan
 
 Komponen yang digunakan :
 
--Normalize.css
--Gumby.css
+- Normalize.css
+- Gumby.css
 
--Jquery.js ( Stable Edition )
--Jquey.Cookie.js
--Jquery.ecommerce.js
--Jquery.Fancybox.js
+- Jquery.js ( Stable Edition )
+- Jquey.Cookie.js
+- Jquery.ecommerce.js
+
 
 Tools yang digunakan
--Browser
--Notepad++
+- Browser
+- Notepad++
 
 Browser support : Mozilla,chrome
