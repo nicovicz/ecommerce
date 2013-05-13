@@ -20,7 +20,7 @@ Komponen yang digunakan :
 - Jquery.js ( Stable Edition )
 - Jquey.Cookie.js
 - Jquery.ecommerce.js
-
+- Jquery.fancybox.js
 
 Tools yang digunakan
 - Browser
